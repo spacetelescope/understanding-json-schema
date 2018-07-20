@@ -1,3 +1,7 @@
+DEVELOPMENT OF THIS PROJECT HAS MOVED.
+
+http://github.com/json-schema-org/understanding-json-schema/
+
 understanding-json-schema
 =========================
 
