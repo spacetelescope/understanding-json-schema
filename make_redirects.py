@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 import sys
 
-DEST_URL = "https://json-schema.github.io/understanding-json-schema/"
+DEST_URL = "https://json-schema.org/understanding-json-schema/"
 
 template = """
 <!DOCTYPE html>
